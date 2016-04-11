@@ -1,0 +1,57 @@
+h1 {
+	font-family: verdana;
+	font-style: italic;
+	color: white;
+}
+
+h3	{
+	color: white;
+	font-style: italic;
+	font
+
+}
+
+header	{
+	color: white;
+}
+
+p  {
+    margin: auto;
+    width: 51%;
+    border: 10px solid red;
+    padding: -2px;
+}
+
+body { 
+    background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/dark-wood-floor.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+table {
+    background-color: lightblue;
+    color: hotpink;
+}
+
+
+
+a.link {
+    color: red;
+}
+
+
+a.visited {
+    color: purple;
+}
+
+
+a.hover {
+    color: hotpink;
+}
+
+
+a.active {
+    color: blue;
+}
+
